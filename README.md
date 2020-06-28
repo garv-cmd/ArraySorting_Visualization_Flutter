@@ -1,6 +1,6 @@
-# arrayvisualization
+# array visualization
+<img src="https://github.com/garv-cmd/ArraySorting_Visualization_Flutter/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202020-06-28%20at%2011.52.43.png?raw=true" heigh=400t>
 
-A new Flutter application.
 
 ## Getting Started
 
